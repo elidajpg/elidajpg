@@ -39,9 +39,13 @@
   
   <br/><br/>
 
+  <h3>Estou aprendendo a criar relatórios em BI (Business Intelligence):</h3>
+  <p>Atualmente, estou aprimorando minhas habilidades em ferramentas de BI, como Power BI e Tableau, para gerar insights valiosos e relatórios interativos. Estou focada em transformar dados em informações significativas para tomada de decisões empresariais.</p>
+
+  <br/><br/>
+
   <!-- Animação Snake -->
   <h3>Contribuições:</h3>
   
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Animação Snake para contribuições no GitHub">
-  
 </div>
