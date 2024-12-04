@@ -40,7 +40,7 @@
   <br/><br/>
 
   <h3>Estou aprendendo a criar relatórios em BI (Business Intelligence):</h3>
-  <p>Atualmente, estou aprimorando minhas habilidades em ferramentas de BI, como Power BI e Tableau, para gerar insights valiosos e relatórios interativos. Estou focada em transformar dados em informações significativas para tomada de decisões empresariais.</p>
+  <p>Atualmente, estou aprimorando minhas habilidades em ferramentas de BI, como Power BI, para gerar insights valiosos e relatórios interativos. Estou focada em transformar dados em informações significativas para tomada de decisões empresariais.</p>
 
   <br/><br/>
 
